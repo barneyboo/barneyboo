@@ -47,3 +47,11 @@ For the BBC World Service's Crossing Divides season, we built an interactive sto
 #### 🐙 Octo - quick transcripts from BBC media
 
 Journalists often need quick transcription of their content - whether it's the recording of a long interview, or a finished package to put together subtitles. Octo pulls together a bunch of existing integrations with our audio and video content systems, and our internal speech-to-text services, to offer a consistent way of getting transcripts from any BBC media. One of my first projects in News Labs, I built Octo's React frontend.
+
+### other open source projects
+
+I maintain a few forks of open source projects, usually with small feature updates/fixes:
+
+**[@barneyboo/VlcMedia](http://github.com/barneyboo/VlcMedia)** - Unreal Engine 4 plugin for streaming media via libVLC. This fork adds support for volume control.
+
+**[@barneyboo/react-autosuggest](https://github.com/barneyboo/react-autosuggest)** - React component that provides autosuggest behaviour. This fork adds support for tabbing on a suggestion to act as confirmation of a selection.
