@@ -4,13 +4,17 @@ I'm a senior developer in BBC News Labs, based in London. I've been working on e
 
 ### what am i working on now?
 
-#### 💘 Cupid (Curated/Personalised) - editorial curation meets personalisation
+### 🌍 Frank: highlighting language service journalism that can travel well
 
-Recommender systems are commonly used for personalisation, to help suggest relevant content for audiences. However, in news, curation is important - to make sure audiences get a good mix of content and a particular mix of content doesn't unintentionally introduce bias or get in the way of other editorial sensitivities. With Cupid, we've been building a values-led approach, where editors curate experiences for different audience once, based on the news values they should contain - and the right content is populated at runtime. We've just started evaluating our [first prototype of this idea](https://bbcnewslabs.co.uk/projects/cupid/), with more to follow soon...
+The problems with helping short-form language travel well across the BBC (Live Page Translation, below) also apply to longer articles. It's further complicated as language services will often translate and reversion stories from centralised English language teams, or other services, but it's hard to tell when this has happened, or how well those stories performed. I'm acting as tech lead on a project to analyse all language service content as it's published and identify if it's likely to be a story that will travel well, and isn't a story that's already been translated. We can then machine translate and automatically promote it to World Service journalists to help them reversion it for their own audiences. More on this one soon...
 
 ### what have i done before?
 
 I've been lucky to work on loads of really interesting and high impact projects in News Labs. All of these have been huge team efforts, both within Labs and across the BBC, so here's some examples of what I've been able to contribute...
+
+#### 💘 Cupid (Curated/Personalised) - editorial curation meets personalisation
+
+Recommender systems are commonly used for personalisation, to help suggest relevant content for audiences. However, in news, curation is important - to make sure audiences get a good mix of content and a particular mix of content doesn't unintentionally introduce bias or get in the way of other editorial sensitivities. With Cupid, we've been building a values-led approach, where editors curate experiences for different audience once, based on the news values they should contain - and the right content is populated at runtime. We've just started evaluating our [first prototype of this idea](https://bbcnewslabs.co.uk/projects/cupid/).
 
 #### 🌲 Evergreen Content
 
