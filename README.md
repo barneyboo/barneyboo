@@ -1,6 +1,6 @@
 ### well hello.
 
-I'm a senior developer in BBC News Labs, based in London. I've been working on experimental audience-facing formats, and tools to make life better for our journalists since 2017. It's pretty fun! I also make games and experiments with Unreal Engine.
+I'm a senior developer in London. Most recently, I spent four years working for BBC News Labs to build innovative editorial tools and audience-facing formats.
 
 ### open source things
 
