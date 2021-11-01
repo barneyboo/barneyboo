@@ -1,6 +1,6 @@
 ### well hello.
 
-I'm a senior developer in London. Most recently, I spent four years working for BBC News Labs to build innovative editorial tools and audience-facing formats.
+I'm a senior developer for News UK (publisher of The Times and The Sunday Times) in London. Most recently, I spent four years working for BBC News Labs to build innovative editorial tools and audience-facing formats.
 
 ### open source things
 
