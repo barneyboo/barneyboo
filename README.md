@@ -1,6 +1,9 @@
 ### well hello.
 
-I'm a senior developer for News UK (publisher of The Times and The Sunday Times) in London. Most recently, I spent four years working for BBC News Labs to build innovative editorial tools and audience-facing formats.
+I'm a senior developer, building the new CMS for The Times and The Sunday Times. Before that, I spent four years working for BBC News Labs to build innovative editorial tools and audience-facing formats.
+
+### News UK
+If you work for [News UK](https://github.com/newsuk), you can find me at [@roohutton-newsuk](https://github.com/roohutton-newsuk)
 
 ### open source things
 
