@@ -1,7 +1,6 @@
 ### well hello.
 
-👋 Most recently I was working at News UK, building the new CMS for The Times and The Sunday Times. Before that, I spent four years working for BBC News Labs to build innovative editorial tools and audience-facing formats. Now I'm going it alone!
-
+👋 Most recently I was working at News UK, building the new CMS for The Times and The Sunday Times. Before that, I spent four years working for BBC News Labs to build innovative editorial tools and audience-facing formats.
 ### iOS apps
 
 **[Jourza](https://apps.apple.com/us/app/jourza/id1630377412)** - Generates random flight plans for flight simulation use
