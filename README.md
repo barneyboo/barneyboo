@@ -1,12 +1,6 @@
 ### well hello.
 
 👋 I'm a developer at Overleaf! Before that, I was working at News UK, building the new CMS for The Times and The Sunday Times. And further back, I spent four years working for BBC News Labs to build innovative editorial tools and audience-facing formats.
-### iOS apps
-
-**[Jourza](https://apps.apple.com/us/app/jourza/id1630377412)** - Generates random flight plans for flight simulation use
-
-**[Arli](https://apps.apple.com/us/app/arli-endless-random-numbers/id1635548739)** - Mix and match dice, random numbers, and random text pickers
-
 
 
 ### open source things
